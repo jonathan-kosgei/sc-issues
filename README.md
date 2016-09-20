@@ -12,5 +12,5 @@ In case you think you've found a security problem please email **jonathan@sahara
  - A UI feature doesn't work like it's supposed to
  - Something else doesn't work like it's supposed to
 
-**_Format _**
+**_Format_**
  - A format for the bug reports is still in the works. For the time being just try to be as detailed as possible, we may contact you to provide more information on issues you encountered.
